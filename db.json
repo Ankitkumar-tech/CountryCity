@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "country": "bangladesh",
+      "city": "dhaka",
+      "population": "20000",
+      "id": 6
+    },
+    {
+      "country": "england",
+      "city": "menchester",
+      "population": "3000000",
+      "id": 7
+    },
+    {
+      "country": "america",
+      "city": "washington",
+      "population": "2329723",
+      "id": 8
+    },
+    {
+      "country": "India  ",
+      "city": "Delhi",
+      "population": "7285656",
+      "id": 9
+    }
+  ]
+}
